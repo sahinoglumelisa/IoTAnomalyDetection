@@ -1,6 +1,4 @@
-# IoT Anomaly Detection 
-
-## Presentation
+# Presentation
 
 ![Slide 01](slides/Slayt1.JPG)
 
